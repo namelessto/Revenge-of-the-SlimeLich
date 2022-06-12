@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Revenge of the SlimeLich/Assets/Graphics/Charecters/Slime lvl 1/New_slime_animation.anim.meta
+guid: ec00ae87a8c178647ab6d04e450f562d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+========
+guid: c06d6d3c02d55b847b4704de3cc8041e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+>>>>>>>> parent of e97a190 (New input system + Cleaned up project files):Revenge of the SlimeLich/Assets/Scriptable Objects/Controllers/PlayerController.asset.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
