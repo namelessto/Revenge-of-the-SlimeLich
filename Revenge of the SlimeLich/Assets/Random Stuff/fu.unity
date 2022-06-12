@@ -124,6 +124,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &590042046
 GameObject:
   m_ObjectHideFlags: 0
@@ -229,6 +230,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of e97a190 (New input system + Cleaned up project files)
 =======
 >>>>>>> parent of e97a190 (New input system + Cleaned up project files)
 --- !u!1 &965465983
