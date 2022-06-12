@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< Updated upstream
   tags: []
+=======
+  tags:
+  - Platform
+  - Ladder
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -11,8 +17,13 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< Updated upstream
   - 
   - 
+=======
+  - Ground
+  - Climbable
+>>>>>>> Stashed changes
   - 
   - 
   - 
